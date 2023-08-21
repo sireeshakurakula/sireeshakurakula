@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @sireeshakurakula
+# Hey !This is Sireesha Kurakula 👋 
 - 👀 I’m interested in Learn new things 
 - 🌱 I’m currently learning Junior Java full stack developer course
 -   My graduation is B.Sc computer Science.
