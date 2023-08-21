@@ -12,8 +12,13 @@
   - Git
   - Github
 
-  ## Certifications: 
+  ## Certifications:
+  - Command Line :
 https://www.codecademy.com/profiles/SireeshaKurakula/certificates/c87ba0541f8be78bc2f4ba1128233f6f
+  - Code Foundations Skill Path :
+    https://www.codecademy.com/profiles/SireeshaKurakula/certificates/5b55e668646caa552f8e4d1d
+    
+    
   
   
 ## Linkedin Profile:
