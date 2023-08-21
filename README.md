@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @sireeshakurakula
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hey, I’m @sireeshakurakula
+- 👀 I’m interested in Learn new things 
+- 🌱 I’m currently learning Junior Java full stack developer course
+-   My graduation is B.Sc computer Science.
 
-<!---
-sireeshakurakula/sireeshakurakula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 https://www.linkedin.com/in/siri-siri-2aa774263
 
