@@ -5,8 +5,14 @@
 
 #Skills :
 ## Languages & Database
-- C Language
-- Python
+- Java
+- html
+- css
+- Spring Boot
+- Java Script
+- SQL
+- MySQL
+- BootStrap
 
   ## Tools:
   - Git
