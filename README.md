@@ -10,9 +10,11 @@
 - css
 - Spring Boot
 - Java Script
+- Type Script
 - SQL
 - MySQL
 - BootStrap
+- Angular Js
 
   ## Tools:
   - Git
